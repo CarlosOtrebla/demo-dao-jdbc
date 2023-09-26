@@ -1,6 +1,5 @@
 package model_dao;
 
-
 import db.DB;
 import model_dao_impl.SellerDaoJDBC;
 
